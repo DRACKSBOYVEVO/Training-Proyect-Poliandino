@@ -1,0 +1,23 @@
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 4    -    https://getbootstrap.com
+
+    - Font Awesome   -    https://fontawesome.com
+
+    - Orion Icons    -    https://orioniconlibrary.com/
+
+    - Leaflet        -    https://leafletjs.com
+
+    - Owl Carousel2  -    https://owlcarousel2.github.io/OwlCarousel2/
+
+    - Modal Video    -    https://appleple.github.io/modal-video/
+
+
+
+------------------------------------------
+ IMAGES
+------------------------------------------
+
+    - Free image stocks               -   https://pexels.com
