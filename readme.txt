@@ -7,7 +7,7 @@ Readme for Iso | Corporate Bootstrap template by Bootstrap Temple
 
 Hi,
 
-thank you for downloading. Have fun and tell your friends about us ;)
+thank you for downloading. Have fun and tell your friends Sobre nosotros ;)
 
 Ondrej, Bootstrap Temple
 
