@@ -1,29 +1,32 @@
-################################################################################################
+Proyecto formativo Poliandino.
 
-Readme for Iso | Corporate Bootstrap template by Bootstrap Temple 
- - https://bootstraptemple.com
+#Compañeros de trabajo
+ - Juan José
+ - Wilsón
+ - David
+ 
+ #Cliente: Service Electronics CCTV
+ - Link directo del proyecto: https://bit.ly/3o9wKI4
 
-################################################################################################
+Hola,
 
-Hi,
+Diviértete y cuéntale a tus amigos Sobre nosotros ;)
 
-thank you for downloading. Have fun and tell your friends Sobre nosotros ;)
-
-Ondrej, Bootstrap Temple
+Service Electronics CCTV, Página web.
 
 ---------------------
  CSS
 ---------------------
 
-The theme stylesheet is css/style.default.css. If you want to make any changes,
-you can do it here or better to override it in custom.css so you can update the original theme stylesheet if an updated is released.
-Changing to another colour variant, is just a matter of replacing css/style.default.css with css/style.pink.css in index.html.
+- La hoja de estilo del tema es css / style.default.css. Si desea realizar algún cambio, puede hacerlo aquí o mejor para anularlo en custom.css para que pueda actualizar la hoja de estilo del tema original si se publica una actualización.
+
+- Cambiar a otra variante de color es solo una cuestión de reemplazar css / style.default.css con css / style.pink.css en index.html.
 
 ---------------------
  JavaScript
 ---------------------
 
-Apart from the Bootstrap JS components, the majority of JS is located in /js/front.js.
+Aparte de los componentes de Bootstrap JS, la mayoría de JS se encuentra en /js/front.js.
 
 ---------------------
  CREDITS
@@ -32,19 +35,3 @@ Apart from the Bootstrap JS components, the majority of JS is located in /js/fro
 - Botstrap - http://getbootstrap.com
 - Font Awesome - http://fontawesome.io/
 - more in credits.txt.
-
----------------------
- LICENSE CONDITIONS
----------------------
-
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to our partner and us.
-
-If you would prefer removing the backlink from the theme footer, please purchase the attribution-free license at the theme page at https://bootstraptemple.com.
-
-However, you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g., selling it on a marketplace).
-
-Also, as a bonus for license owners, I can provide you the SASS files for even easier template customization. Drop me a line at hello@bootstraptemple.com after purchasing the license.
-
-Thank you for understanding and respecting the license conditions.
-
-If more info needed, please contact me at hello@bootstraptemple.com.
