@@ -26,31 +26,30 @@ Hola, Diviértete y cuéntale a tus amigos Sobre nosotros ;)
 - **Botstrap** - http://getbootstrap.com
 - **Font Awesome** - http://fontawesome.io/
 
----------------------
- ##CREDITS
----------------------
+## CREDITS
 
-    - Bootstrap 4    -    https://getbootstrap.com
+- **Bootstrap 4**   -   https://getbootstrap.com
 
-    - Font Awesome   -    https://fontawesome.com
+- **Font Awesome**   -   https://fontawesome.com
 
-    - Orion Icons    -    https://orioniconlibrary.com/
+- **Orion Icons**   -   https://orioniconlibrary.com/
 
-    - Leaflet        -    https://leafletjs.com
+- **Leaflet**   -   https://leafletjs.com
 
-    - Owl Carousel2  -    https://owlcarousel2.github.io/OwlCarousel2/
+- **Owl Carousel2**   -   https://owlcarousel2.github.io/OwlCarousel2/
 
-    - Modal Video    -    https://appleple.github.io/modal-video/
+- **Modal Video**   -   https://appleple.github.io/modal-video/
 
----------------------
- ##IMAGES
----------------------
 
-    - Free image stocks               -   https://pexels.com
+ ## IMAGES
+
+    - **Free image stocks**   -   https://pexels.com
 
 # APORTES
 
 Para poder aportar al proyecto, por favor **Clona primero el repositorio con el siguiente comando**:
 
-- Paso 1:
-	> `Git clone https://github.com/DRACKSBOYVEVO/Training-Proyect-Poliandino.git`
+---------------------
+Clonar repositorio
+---------------------
+	git clone https://github.com/DRACKSBOYVEVO/Training-Proyect-Poliandino.git
