@@ -41,9 +41,9 @@ Hola, Diviértete y cuéntale a tus amigos Sobre nosotros ;)
 - **Modal Video**   -   https://appleple.github.io/modal-video/
 
 
- ## IMAGES
+## IMAGES
 
-    - **Free image stocks**   -   https://pexels.com
+- **Free image stocks**   -   https://pexels.com
 
 # APORTES
 
