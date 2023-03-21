@@ -1,9 +1,14 @@
-﻿# Hola, bienvenido al proyecto Service Electronics CCTV!
+# Hola, bienvenido al proyecto Service Electronics CCTV!
 
 Hola, Diviértete y cuéntale a tus amigos Sobre nosotros ;)
 
 **Proyecto Formativo Poliandino, Página web.**
 
+Se desarrolló un proyecto de grado para la empresa Service Electronics, que requería una página web para mostrar sus servicios. La página web fue diseñada para ser atractiva y fácil de navegar, y se basó en tecnologías web modernas para mejorar la experiencia del usuario.
+
+La página web cuenta con una interfaz de usuario intuitiva, que permite a los usuarios navegar fácilmente por los servicios que ofrece la empresa. Además, la página cuenta con un diseño responsive, lo que significa que se adapta automáticamente a diferentes dispositivos y tamaños de pantalla.
+
+Para el desarrollo de la página web se utilizó HTML5, CSS3 y JavaScript para el frontend, y PHP y MySQL para el backend. Esto permitió que la página web tuviera una estructura sólida y escalable, que pudiera ser actualizada y mantenida fácilmente.
 
 # Archivos
 
